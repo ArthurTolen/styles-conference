@@ -1,4 +1,4 @@
-Hey there!
+Hi,
 
 Welcome to the Styles Conference website.
 
